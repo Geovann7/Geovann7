@@ -88,12 +88,5 @@ Me chamo Geovanna Vitória, tenho 18 anos e sou natural do Paraná. Atualmente, 
 <br/>
 <br/>
 
-<picture align-"center">
-    <source media-"(prefers-color-scheme: dark)"
-scrset="https://raw.githubusercontent.com/geovann7/geovann7/output/github-contribution-grid-snake-dark.svg">
-    <source media-"(prefers-color-scheme: light)"
-scrset="https://raw.githubusercontent.com/geovann7/geovann7/output/github-contribution-grid-snake.svg">
-    <img align-"center" alt-"github contribution grid snake animation"
-src="https://raw.githubusercontent.com/geovann7/geovann7/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/geovann7/geovann7/blob/output/github-contribution-grid-snake.gif)>
 
