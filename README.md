@@ -85,8 +85,5 @@ Me chamo Geovanna Vitória, tenho 18 anos e sou natural do Paraná. Atualmente, 
   />
 </p>
 
-<br/>
-<br/>
-
 ![snake gif](https://github.com/geovann7/geovann7/blob/output/github-contribution-grid-snake.gif)>
 
