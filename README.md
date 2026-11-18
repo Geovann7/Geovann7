@@ -5,7 +5,7 @@
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=190&section=header&text=Geovanna%20Vit%C3%B3ria&fontSize=42&fontColor=ffffff&fontAlignY=37&animation=fadeIn&desc=Bem-vindo(a)%20ao%20meu%20GitHub!&descSize=18&descAlignY=60" alt="Banner de Geovanna Vitória" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Apaixonada+por+tecnologia+e+aprendizado;Explorando+novas+ideias+com+c%C3%B3digo" alt="Apresentação com efeito de digitação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Dream+it+Code+it;Sempre+aprendendo,+sempre+desenvolvendo" alt="Apresentação com efeito de digitação" />
 
   <br><br>
 
@@ -48,7 +48,7 @@ Olá! Sou **Geovanna Vitória**, estudante de **Engenharia de Software na PUCPR*
 
 ---
 
-## 🎮 Minhas contribuições — Pac-Man
+## 🎮 Minhas contribuições
 
 <div align="center">
 
