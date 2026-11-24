@@ -2,28 +2,36 @@
 name: Gerar Pac-Man das contribuicoes
 
 on:
+  # Atualiza automaticamente todos os dias
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "17 9 * * *"
+
+  # Atualiza quando o README for modificado
   push:
     branches:
       - main
+    paths:
+      - "README.md"
+
+  # Permite executar manualmente, se desejar
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     timeout-minutes: 20
 
     steps:
-      - name: Gerar animacao do Pac-Man
+      - name: Gerar Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Geovann7
           games: pacman
 
-      - name: Publicar imagens na branch output
+      - name: Publicar animacao
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
